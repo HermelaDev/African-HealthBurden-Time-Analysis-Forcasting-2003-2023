@@ -1,4 +1,6 @@
-![Project Poster](img.png)
+<p align="center">
+  <img src="img.png" alt="Project Poster" width="300">
+</p>
 
 # African-HealthBurden-Analysis-2003-2023
 
