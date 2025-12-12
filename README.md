@@ -194,7 +194,7 @@ pip install -r requirements.txt
 
 This project is released under the MIT License: see LICENSE. If you reuse outputs, please cite IHME GBD 2023 as the original data source.
 
-## Contact / acknowledgements
+## Contact
 Author: Hermela S. Gizaw
 
 Email: hermelaselt@gmail.com
